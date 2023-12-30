@@ -1,6 +1,10 @@
 # CoCo-Pi-64bit-Bookworm
 CoCo-Pi-Installer Project Update Repository for Bookworm
 
+This repository will be used to provide updates / patches / fixes for the CoCo-Pi-Installer Project
+
+
+
 More information about the CoCo-Pi-Installer project can be found here:
 
 https://github.com/mrgw454/CoCo-Pi-Installer
